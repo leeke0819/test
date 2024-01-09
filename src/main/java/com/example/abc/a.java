@@ -1,7 +1,7 @@
-package com.example.ZizonPlugin;
+package com.example.abc;
 
 import org.bukkit.plugin.java.JavaPlugin;
-public class ZizonPlugin extends JavaPlugin {
+public class a extends JavaPlugin {
     @Override
     public void onEnable() {
         getLogger().info("Enable plugin");
